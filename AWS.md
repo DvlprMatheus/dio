@@ -93,6 +93,7 @@ Os principais benefícios esperados são:
 - Melhor aproveitamento de recursos computacionais
 - Aumento da eficiência operacional
 - Maior governança financeira e previsibilidade de gastos
+- Infraestrutura com alta disponibilidade
 
 Recomenda-se a continuidade do monitoramento mensal de custos, a adoção futura de Savings Plans ou instâncias reservadas adicionais e a implementação de políticas de desligamento automático para ambientes não produtivos.
 
